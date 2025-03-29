@@ -53,11 +53,13 @@ Copy
 Edit
 git clone https://github.com/A7mad-Salem/DSC-BiLSTM.git
 cd DSC-BiLSTM
+
 2️⃣ Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 3️⃣ Train the Model
 bash
 Copy
@@ -67,7 +69,8 @@ python train.py
 After training, the model is evaluated using a confusion matrix, accuracy, and loss curves.
 
 🖼️ Example Confusion Matrix
-(Insert confusion matrix image here)
+(![image](https://github.com/user-attachments/assets/de73138e-c5a3-453b-8fc9-d67fddf7e5f4)
+)
 
 Precision & Recall metrics are analyzed to measure classification performance.
 
