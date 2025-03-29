@@ -51,7 +51,7 @@ Sequences are preprocessed and padded to maintain a fixed length for training.
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_GITHUB_USERNAME/DSC-BiLSTM.git
+git clone https://github.com/A7mad-Salem/DSC-BiLSTM.git
 cd DSC-BiLSTM
 2️⃣ Install Dependencies
 bash
